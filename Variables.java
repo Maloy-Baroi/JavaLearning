@@ -1,5 +1,5 @@
 public class Variables {
-    public static void main(String[] args) {
+    public static void main(LearnString[] args) {
 //        Primitive variable
         int varInt = 10;
         float varFloat = 10.5f;
